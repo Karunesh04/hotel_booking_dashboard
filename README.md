@@ -16,12 +16,12 @@ Make sure you have the following installed:
 #### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/hotel-booking-dashboard.git
+git clone https://github.com/karunesh04/hotel-booking-dashboard.git
 ```
 #### 2. Install dependencies:
 
 ```bash
-cd WATERDIP_DASHBOARD
+cd hotel_booking_dashboard
 npm install 
 ```
 
